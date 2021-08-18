@@ -1,3 +1,1 @@
-# Bunny-Jump
-
-Developed by Javascript / Phaser 3
+# Bunny-Jump-Phaser-JS-TS
